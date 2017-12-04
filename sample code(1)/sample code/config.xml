@@ -17,6 +17,7 @@
         Chris P. Bowers
     </author>
         <plugin name="cordova-plugin-dialogs"/>
+        <plugin name="cordova-plugin-local-notification" version="0.8" />
 	
 	
 	
